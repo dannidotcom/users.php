@@ -1,6 +1,6 @@
 {
     "name": "danni/manage-user.php",
-    "description": "Management user with php using architect clean code and SOLID",
+    "description": "Management user with php using Clean Architecture and SOLID",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
