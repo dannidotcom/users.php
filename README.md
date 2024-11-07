@@ -41,7 +41,7 @@ README.md
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/dannidotcom/users.php.git
-   cd mon-projet-php
+   cd users.php
    ```
 
 2. **Installer les dépendances** :
